@@ -1,0 +1,15 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/vendor/bundle
+/ext/marisa/*.o
+/ext/marisa/*.so
+/ext/marisa/*.bundle
+/lib/marisa/*.so
+/lib/marisa/*.bundle
