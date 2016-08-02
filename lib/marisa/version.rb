@@ -1,3 +1,3 @@
-class Marisa
-  VERSION = '0.2.4'
+module Marisa
+  VERSION = '0.2.6'
 end
